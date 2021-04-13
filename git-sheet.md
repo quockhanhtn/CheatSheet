@@ -1,4 +1,4 @@
-# Git Sheet
+# <img src="images/git-icon.svg" style="max-width:100%;width: 20px;"> Git Sheet
 A simple git cheatsheet.
 <br/><br/>
 
